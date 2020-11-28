@@ -1,0 +1,132 @@
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin-top: 50px 0 0 0;
+  font-size: 5.625rem;
+  font-family: 'Dosis', sans-serif;
+  color: #48c3be;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 1.875rem;
+  color: #48c3be;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+hr{
+  border: dotted 7px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+  border-color:#95adbe;
+}
+a{
+  color: #eeeeee;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #a9d2ff;
+}
+
+p{
+  line-height: 2;
+}
+.top {
+  background-color: #d2f6fc;
+  position: relative;
+  padding-top: 100px;
+}
+
+.intro{
+  width: 50%;
+  margin: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.profileimg {
+  width: 20%;
+}
+
+.skillimg1 {
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.skillimg2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.footer-copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.bottom-container {
+  background-color: #48c3be;
+  padding: 50px 0 20px;
+}
+
+.BUTTON_VAY {
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+color: #FFFFFF;
+font-family: 'Dosis', sans-serif;
+font-size: 16px;
+font-weight: 100;
+padding: 15px;
+border-color-hover: ;
+border-style-hover: solid;
+border-width-hover: 1;
+background-color: #48c3be;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+}
+
+.BUTTON_VAY:hover {
+background: #a9d2ff;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+text-decoration: none;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+.contactmessage{
+  width:40%;
+  margin: 40px auto 60px;
+}
